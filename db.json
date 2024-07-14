@@ -99,6 +99,16 @@
       "contact": "chebet.kiprono@example.com",
       "image": "https://images.unsplash.com/photo-1613730317814-1cede28e0151?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "about": "Chebet is an experienced HR specialist dedicated to fostering a positive and productive workplace environment."
+    },
+    {
+      "id": "f0ca",
+      "name": "Ian Mwangi",
+      "job": "Software Engineer",
+      "role": "Front end developer",
+      "address": "1388 Naivasha, Nakuru, Kenya",
+      "contact": "me@gmail.com",
+      "image": "https://images.unsplash.com/photo-1620932934088-fbdb2920e484?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "about": "Developer"
     }
   ]
 }
